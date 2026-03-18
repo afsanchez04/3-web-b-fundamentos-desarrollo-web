@@ -232,6 +232,9 @@ body {
   .card--stat {
     width: 100%;
   }
+  .card__value {
+    font-weight: lighter;
+  }
 }
 
 /* Estilos Desktop */
